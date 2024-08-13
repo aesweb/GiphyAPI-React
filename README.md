@@ -11,9 +11,7 @@ A React application for searching and displaying GIFs using the Giphy API.
 ## Setup
 
 1. Clone the repository
-2. Install dependencies and Start the development server:
-
-### yarn install && yarn start
+2. Install dependencies and Start the development server: - `yarn install && yarn start `:
 
 ## Available Scripts
 
